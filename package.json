@@ -1,0 +1,22 @@
+{
+  "name": "coding-challenge-emotive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Romero-jace/coding-challenge-emotive.git"
+  },
+  "author": "Jace",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Romero-jace/coding-challenge-emotive/issues"
+  },
+  "homepage": "https://github.com/Romero-jace/coding-challenge-emotive#readme",
+  "devDependencies": {
+    "cypress": "^6.2.0"
+  }
+}
